@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-en'
+title = '瞎蹦跶的自留地'
+theme = 'ananke'
