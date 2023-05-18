@@ -1,2 +1,6 @@
+github.com/glfruit/hananke v0.0.0-20230518020422-01c7cdb13955 h1:m+Fw1N5NMMLDfVUGKVI0HsH2nkZkcnfdWfQKLoLnzAg=
+github.com/glfruit/hananke v0.0.0-20230518020422-01c7cdb13955/go.mod h1:dgzR8jB1CAF1IarppMasMv3YswN9k+4/Dn0t9UnDFzc=
+github.com/glfruit/hananke v0.0.0-20230518104734-517d37349fbc h1:WiKygXWxupHy8YafzilGy+1Fx++OVjr4/AMywr7tmy4=
+github.com/glfruit/hananke v0.0.0-20230518104734-517d37349fbc/go.mod h1:dgzR8jB1CAF1IarppMasMv3YswN9k+4/Dn0t9UnDFzc=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681 h1:iPc5eu4EV8YZEOh1WsTqLcQmqj96TbqI+BGpBD4a5lo=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
