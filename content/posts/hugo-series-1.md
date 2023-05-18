@@ -1,5 +1,7 @@
 ---
 title: "Hugo构建个人博客（一）：基本安装配置"
+tags: ["Hugo"]
+categories: ["数字生活"]
 date: 2023-05-17T18:30:58+08:00
 draft: true
 ---

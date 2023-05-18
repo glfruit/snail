@@ -19,6 +19,26 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content"
 
+sectionPagesMenu = 'main'
+[menu]
+  [[menu.main]]
+    name = '首页'
+    pageRef = '/'
+    weight = 10
+  [[menu.main]]
+    identifier='posts'
+    name = '文章'
+    pageRef = '/posts'
+    weight = 20
+  [[menu.main]]
+    name = '分类'
+    pageRef = '/categories'
+    weight = 30
+  [[menu.main]]
+    name = '关于'
+    pageRef = '/about'
+    weight = 40
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
