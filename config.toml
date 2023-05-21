@@ -46,6 +46,7 @@ sectionPagesMenu = 'main'
 
 [params]
   custom_css = ["custom.css"]
+  recent_copy = "最新文章"
   text_color = ""
   author = ""
   date_format = ":date_full"
