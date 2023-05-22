@@ -19,7 +19,7 @@ sudo apt install caddy
 ```
 
 ### 基本配置
-```bash
+```
 example.com:443 {
 	tls {
 		protocols tls1.2 tls1.3
