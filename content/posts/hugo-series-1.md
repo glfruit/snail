@@ -53,7 +53,7 @@ xcaddy build \
 ```
 
 修改`Caddyfile`
-```yaml
+```
 route /webhook {
 		webhook {
 			repo https://github.com/xxx/xxx.git
