@@ -92,7 +92,7 @@ git init
 ### 设置主题
 `hugo`创建的站点并没有默认的主题，需要自己安装配置，我选择的是[Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)主题，安装很简单，运行：
 ```bash
-hugo mod init github.com/glfruit/snail
+hugo mod init github.com/<your_username>/<your_project>
 ```
 
 然后编辑`config.toml`文件，设置主题：
